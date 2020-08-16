@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p>
+  <img src="https://embersky.xyz/git-header.png">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCZ&layout=compact">
 </p>
